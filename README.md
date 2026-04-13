@@ -1,3 +1,10 @@
+[![CI](https://img.shields.io/github/actions/workflow/status/Tox1469/hash-kit/ci.yml?style=flat-square&label=ci)](https://github.com/Tox1469/hash-kit/actions)
+[![License](https://img.shields.io/github/license/Tox1469/hash-kit?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Tox1469/hash-kit?style=flat-square)](https://github.com/Tox1469/hash-kit/releases)
+[![Stars](https://img.shields.io/github/stars/Tox1469/hash-kit?style=flat-square)](https://github.com/Tox1469/hash-kit/stargazers)
+
+---
+
 # hash-kit
 
 Wrappers simples sobre `crypto` para md5, sha1, sha256 e sha512. Inclui streaming de arquivos.
