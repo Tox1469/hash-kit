@@ -1,0 +1,19 @@
+{
+  "name": "hash-kit",
+  "version": "1.0.0",
+  "description": "Simple md5/sha1/sha256/sha512 wrappers with streaming support.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": ["hash","md5","sha1","sha256","sha512","crypto"],
+  "author": "Tox",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
